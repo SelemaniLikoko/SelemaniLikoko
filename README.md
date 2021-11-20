@@ -3,7 +3,7 @@
 
 I am Agricultural Economics and Agribusiness professional interested in technology, problem solving and learning new things.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / NODE.JS
+Skills: JS / REACT / JS / HTML / CSS / NODE.JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning everything 
